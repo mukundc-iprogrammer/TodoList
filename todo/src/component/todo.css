@@ -1,0 +1,39 @@
+.container {
+    margin: 10px;
+}
+
+.card {
+    padding: 10px;
+    margin: 15px auto 5px auto;
+    width: 250px;
+    box-shadow: 0 8px 6px 1px rgb(8, 8, 8);
+    background-color: rgb(19, 17, 17);
+    color: blanchedalmond;
+}
+
+.card input {
+    background: transparent;
+    color: white;
+    border: 0;
+    text-align: center;
+}
+
+.card input:focus {
+    outline: none;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.date {
+    font-size: 15px;
+    color: green;
+    justify-content: right;
+}
+
+.dateRed {
+    font-size: 15px;
+    color: red;
+    justify-content: right;
+}
